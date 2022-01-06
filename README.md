@@ -10,8 +10,9 @@
 - [令人身心愉悦的闪闪红星](https://github.com/ReuenthalLee/blogs/issues/3)--2022-01-06
 - [我的blog宗旨](https://github.com/ReuenthalLee/blogs/issues/2)--2022-01-06
 - [星辰大海](https://github.com/ReuenthalLee/blogs/issues/1)--2022-01-06
-## 感恩
-- [星辰大海](https://github.com/ReuenthalLee/blogs/issues/1)--2022-01-06
+## book
+- [2011 听歌记](https://github.com/ReuenthalLee/blogs/issues/5)--2022-01-06
+- [2011读书记A](https://github.com/ReuenthalLee/blogs/issues/4)--2022-01-06
 ## 星辰大海
 - [令人身心愉悦的闪闪红星](https://github.com/ReuenthalLee/blogs/issues/3)--2022-01-06
 - [我的blog宗旨](https://github.com/ReuenthalLee/blogs/issues/2)--2022-01-06
