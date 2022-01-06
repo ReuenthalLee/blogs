@@ -1,5 +1,5 @@
-## Gitblog
-My personal blog using issues and GitHub Actions (随意转载，无需署名)
+# 虹猫蓝兔七百蚊！
+滚石群星之快乐动物园  兔狼猫熊猫鸟！
 [RSS Feed](https://raw.githubusercontent.com/ReuenthalLee/blogs/master/feed.xml)
 ## 友情链接
 | Name | Link | Desc | 
